@@ -1,0 +1,32 @@
+sergio e almeida paraiso
+
+
+
+Exercício 01. Abra o arquivo exercicio-um.pcap. Você deverá ver 26 pacotes nesse arquivo. O conjunto de pacotes descreve uma “conversação” entre usuários clientes e um servidor central. Toda essa conversa acontece automaticamente depois que um usuário digita algo e tecla enter. Analise os pacotes para responder às seguintes questões em relação a essa conversação.
+
+A  – 131.247.95.26
+B – esta ocorrendo uma conversação entre o cliente e a pagina da web solicitada.
+C- o usuário solicita a pagina, sendo correspondido, fazendo o envio da página.
+
+
+E- faz a remontagem o segmento tcp, e envia a pagina.
+F- o cliente confirma que recebeu a pagina.
+G- o usuário solicitou uma parte da pagina, porque ele separou em segmentos, e não
+enviou o pacote completo, porque a imagem abre automaticamente, pois faz parte da pagina.
+H- o google está enviando os segmentos.
+I- o cliente esta solicitando um ícone ao google.
+j- ele está acessando uma pagina da web.
+
+2	– questão
+
+A- www,yahoo.com, 216.109.117.106, 216.109.117.09
+B- 16 pacotes quadros.
+C- O cliente faz uma consulta, do dns de uma página, não, eles podem usar mais de um.
+D- Para saber com quem está se comunicando, para acessar a pagina, não e outro endereço de ip.
+E- Porque as duas declarações são o mesmo endereço de ip.
+F- Eles não pertencem ao mesmo pacote, eles serão revisados no final, para serem enviados de novo.
+
+3- questão
+A-No pacote 3 ele, faz uma verificação dos dados, e no pacote 12 ele confirma, não eles usam mais de um.
+B-Iii do my.usf.com, a sua comunicação é em mensagem criptografada.na linha do yahoo, não contem essa comunicação criptografada.
+
