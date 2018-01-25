@@ -1,0 +1,37 @@
+sergio de almeida paraiso
+
+
+
+
+
+1-	Questão                                                      
+    R-  O arquivo mininet-wifi segundo o site e o mais citado os arquivos encontrado no site com mais de 40 citacões.
+     2.1- Questão 
+R- depois de ter feito os comandos houve um atraso de 0,222 ms  e não houve perdas de pacotes
+    2.2- questão
+R- o comando retrocedeu a taxa de transferência de 10.5 e 10.6 entre os nós e o ap.
+  2.3- questão   
+R- a potencia de transmissão foi de 14mb esta um esta com conexão, o ip de sta1 10.0. 0.1, o alcance da rede esta de 60 metros, frequência de operação de rede 2,4 ghz e o modo e a do sem fio  é de 54 mbs, a posição e x,y,z equivale há 1,0,0.
+3.1- questão
+R-  o nó o qual está incomunicável é o sta3, porque ele esta fora do alcance da área de cobertura do ap1. O alcance esta limitado a 60 metros e o sta3 passou essa faixa e não haverá comunicação entre ele e o ap1.
+3.2- questão
+R- 1f = nfloors=1, pl =1, apareceu -23bdm
+     1f= nfloors=2, pl=2, apareceu -26bdm
+     1f=nfloors=2, pl=2, apareceu -27bdm
+     1f=5 ,nfloors=5,pl=5,apareceu -50bdm
+     1f=5,nfloors=1,pl=5, apareceu -30 bdm
+     1f=10,nfloors=1,pl=10, apareceu -39bdm
+     1f=10,nfloors=4,pl=10,apareceu -69bdm
+Pode-se obeservar a medida que aumenta os valores de if, nfloors, e pl o nível o sinal diminui.
+3.3- questão
+R- utilizando-se os modelos apresentados poeria ser utilizado em residências, porque casa sejam utilizados os valores if=1, pl=2,nloors=2 o sinal -26 bdm está  ótimo.
+4.1- questão
+R-  quando o arquivo propagation_model.py foi carregado, não oi possível realizar o comando iperf sta1 e sta2.
+4.2- questão
+R- significa avaliação de limite do canal disponível.
+5.1- questão
+R- não houve comunicação mesmo o sta2  permanecendo na área de abrangência de ap1 e ap2, e o sta1 entrou na área o ap2.
+5.2- questão
+R-  é o processo de mobilidade aonde uma estação passa por dois pontos de acesso.
+6.1
+R-  não consegui ver ligação entre sta1 e sta3, o mesmo ocorreu com  sta4 e sta6
